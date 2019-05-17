@@ -1,0 +1,8 @@
+{
+  "name": "git-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:anhquande/git-demo.git",
+  "author": "Anh Quan Nguyen <anh@flowtify.de>",
+  "license": "MIT"
+}
